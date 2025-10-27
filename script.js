@@ -21,7 +21,7 @@ const ball = {
   img: new Image()
 };
 
-ball.img.src = "foto.png"; // ← foto kamu di folder yang sama
+ball.img.src = "Screenshot_20251027_130208_WhatsApp.jpg"; // ← foto kamu di folder yang sama
 
 let rightPressed = false;
 let leftPressed = false;
